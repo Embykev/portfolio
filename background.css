@@ -1,0 +1,36 @@
+body {
+	background-image: url("image_collection/repeat.jpg") ;
+}
+h1 {
+color: #331900;
+}
+h2 {
+color: #331900;
+}
+p {
+color: #663300;
+}
+.jumbotron {
+background-color: #6EA588;
+}
+.nav {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  /*background-color: #CCCFFA;*/
+  /*background-color: #8D8D8D;*/
+  background-color: #6EA588;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #947435;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #8D8D8D;
+}
+
+/* SHOSHITE TOKI WA UGOKI DASU*/ 
